@@ -1,0 +1,8 @@
+body {
+  font-family: monospace;
+}
+
+.container {
+  border: solid 3px #6e7491;
+	border-radius: 52px;
+}
